@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Left hand crystal mask
+  m_Mask: 00000000000000000000000000000000000000000100000000000000010000000000000000000000000000000100000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Player Model
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone/Player_l_Knee_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone/Player_l_Knee_bone/Player_l_Ankle_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone/Player_l_Knee_bone/Player_l_Ankle_bone/Player_l_Toe_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone/Player_r_Knee_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone/Player_r_Knee_bone/Player_r_Ankle_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone/Player_r_Knee_bone/Player_r_Ankle_bone/Player_r_Toe_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_ForearmRoll1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_ForearmRoll2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl/Player_l_Index_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl/Player_l_Index_1_bone/Player_l_Index_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl/Player_l_Index_1_bone/Player_l_Index_2_bone/Player_l_Index_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl/Player_l_Middle_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl/Player_l_Middle_1_bone/Player_l_Middle_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl/Player_l_Middle_1_bone/Player_l_Middle_2_bone/Player_l_Middle_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl/Player_l_Pinky_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl/Player_l_Pinky_1_bone/Player_l_Pinky_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl/Player_l_Pinky_1_bone/Player_l_Pinky_2_bone/Player_l_Pinky_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl/Player_l_Ring_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl/Player_l_Ring_1_bone/Player_l_Ring_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl/Player_l_Ring_1_bone/Player_l_Ring_2_bone/Player_l_Ring_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl/Player_l_Thumb_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl/Player_l_Thumb_1_bone/Player_l_Thumb_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl/Player_l_Thumb_1_bone/Player_l_Thumb_2_bone/Player_l_Thumb_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_ShoulderRoll_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_FK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_FK_bone/Player_l_Forearm_FK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_FK_bone/Player_l_Forearm_FK_bone/Player_l_Wrist_FK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_IK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_IK_bone/Player_l_Forearm_IK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_IK_bone/Player_l_Forearm_IK_bone/Player_l_Wrist_IK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_Neck_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_Neck_bone/Player_Head_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_ForearmRoll1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_ForearmRoll2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl/Player_r_Index_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl/Player_r_Index_1_bone/Player_r_Index_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl/Player_r_Index_1_bone/Player_r_Index_2_bone/Player_r_Index_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl/Player_r_Middle_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl/Player_r_Middle_1_bone/Player_r_Middle_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl/Player_r_Middle_1_bone/Player_r_Middle_2_bone/Player_r_Middle_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl/Player_r_Pinky_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl/Player_r_Pinky_1_bone/Player_r_Pinky_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl/Player_r_Pinky_1_bone/Player_r_Pinky_2_bone/Player_r_Pinky_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl/Player_r_Ring_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl/Player_r_Ring_1_bone/Player_r_Ring_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl/Player_r_Ring_1_bone/Player_r_Ring_2_bone/Player_r_Ring_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl/Player_r_Thumb_1_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl/Player_r_Thumb_1_bone/Player_r_Thumb_2_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl/Player_r_Thumb_1_bone/Player_r_Thumb_2_bone/Player_r_Thumb_3_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_ShouldeRoll_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_FK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_FK_bone/Player_r_Forearm_FK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_FK_bone/Player_r_Forearm_FK_bone/Player_r_Wrist_FK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_IK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_IK_bone/Player_r_Forearm_IK_bone
+    m_Weight: 1
+  - m_Path: Player_Main_ctrl/Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_IK_bone/Player_r_Forearm_IK_bone/Player_r_Wrist_IK_bone
+    m_Weight: 1

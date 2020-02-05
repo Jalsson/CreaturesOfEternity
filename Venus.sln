@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venus", "Venus.csproj", "{06F50A3A-9C56-1EB0-5098-D567A4327392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venus.Plugins", "Venus.Plugins.csproj", "{DD42D063-9521-44FD-6326-C6B4005A608E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venus.Editor.Plugins", "Venus.Editor.Plugins.csproj", "{4281CD16-78C9-9240-0B99-40CBFFECEA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F50A3A-9C56-1EB0-5098-D567A4327392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F50A3A-9C56-1EB0-5098-D567A4327392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F50A3A-9C56-1EB0-5098-D567A4327392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F50A3A-9C56-1EB0-5098-D567A4327392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD42D063-9521-44FD-6326-C6B4005A608E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD42D063-9521-44FD-6326-C6B4005A608E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD42D063-9521-44FD-6326-C6B4005A608E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD42D063-9521-44FD-6326-C6B4005A608E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4281CD16-78C9-9240-0B99-40CBFFECEA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4281CD16-78C9-9240-0B99-40CBFFECEA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4281CD16-78C9-9240-0B99-40CBFFECEA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4281CD16-78C9-9240-0B99-40CBFFECEA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

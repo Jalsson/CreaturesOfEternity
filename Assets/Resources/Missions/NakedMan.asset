@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 453474d0d1349384fa4197972e0c7c6b, type: 3}
+  m_Name: NakedMan
+  m_EditorClassIdentifier: 
+  reward: 0
+  questStringID: NakedMan
+  name: The Naked Man
+  description: There's a naked man near you, go talk to him!
+  nextStoryQuest: {fileID: 11400000, guid: 626b767badc30a04c8d3100bdb89878d, type: 2}
+  missionStates:
+  - {fileID: 0}

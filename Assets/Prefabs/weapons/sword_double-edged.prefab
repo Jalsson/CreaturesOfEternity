@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1992601374756320}
+  m_IsPrefabParent: 1
+--- !u!1 &1251512449358030
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4622925674660046}
+  - component: {fileID: 136715728446746674}
+  - component: {fileID: 114881132441875554}
+  m_Layer: 9
+  m_Name: WeaponHitBox
+  m_TagString: Weapon
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1992601374756320
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4527464303334756}
+  - component: {fileID: 33393335951890854}
+  - component: {fileID: 23388544369027320}
+  - component: {fileID: 114037363504463358}
+  m_Layer: 9
+  m_Name: sword_double-edged
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4527464303334756
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1992601374756320}
+  m_LocalRotation: {x: -0.000000075497894, y: -0.0000000437114, z: 0.00000016292068,
+    w: 1}
+  m_LocalPosition: {x: -0.5649367, y: 0.0869821, z: 0.5855311}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4622925674660046}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4622925674660046
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251512449358030}
+  m_LocalRotation: {x: -0.049667675, y: 0.000000051749353, z: -0.00000016054857, w: 0.9987658}
+  m_LocalPosition: {x: 0.015, y: 0.1, z: 1.776}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4527464303334756}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -5.6940002, y: 0, z: 0}
+--- !u!23 &23388544369027320
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1992601374756320}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 8b5015807c368304cb52327bb5f6f0f5, type: 2}
+  - {fileID: 2100000, guid: 30bbd8f793048bc41ae736d3f84a68dc, type: 2}
+  - {fileID: 2100000, guid: 03f77595ab9efde449bc7d6bac43620c, type: 2}
+  - {fileID: 2100000, guid: a56541c5d4b21c0498e245704a4851ad, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &33393335951890854
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1992601374756320}
+  m_Mesh: {fileID: 4300000, guid: 985ad3b6830168542828716df598b032, type: 3}
+--- !u!114 &114037363504463358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1992601374756320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0cab838844c06942b7490e75db2b37a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  offSetPosition: {x: 0.0441, y: -0.1759, z: 0.0045}
+  offSetRotation: {x: 0.10047, y: 0.6538, z: 0.7412279, w: -0.1139048}
+--- !u!114 &114881132441875554
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251512449358030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559269f18659cfb4dac994523d18b08e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!136 &136715728446746674
+CapsuleCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1251512449358030}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  m_Radius: 0.03
+  m_Height: 0.71
+  m_Direction: 2
+  m_Center: {x: 0, y: 0, z: -1.12}

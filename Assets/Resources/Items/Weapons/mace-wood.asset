@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a69123509075bf43bdf55c9205a2d8a, type: 3}
+  m_Name: mace-wood
+  m_EditorClassIdentifier: 
+  name: Wood mace
+  icon: {fileID: 21300000, guid: 1ebcc434d7b16ad4d8221097a49629a9, type: 3}
+  description: strong weapon that has bad reach
+  price: 100
+  rarityEnum: 2
+  weaponSlotEnum: 0
+  crystalTypeEnum: 0
+  weaponDamage: 5
+  attackSpeedOrDuration: 0.95
+  statEffectOrRadius: 0
+  weaponObject: {fileID: 1859080019634014, guid: 082220a921ced784cae8a016a40c0652,
+    type: 2}

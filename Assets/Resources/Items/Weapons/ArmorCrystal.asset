@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a69123509075bf43bdf55c9205a2d8a, type: 3}
+  m_Name: ArmorCrystal
+  m_EditorClassIdentifier: 
+  name: Armor crystal
+  icon: {fileID: 21300000, guid: cb81c9dc83c504e47be3687f175535fd, type: 3}
+  description: temporary increases your armor resistance
+  price: 200
+  rarityEnum: 2
+  weaponSlotEnum: 1
+  crystalTypeEnum: 2
+  weaponDamage: 0
+  attackSpeedOrDuration: 9
+  statEffectOrRadius: 20
+  weaponObject: {fileID: 1794551426703746, guid: 58bc26679d362e4448577e4af68be1cb,
+    type: 2}

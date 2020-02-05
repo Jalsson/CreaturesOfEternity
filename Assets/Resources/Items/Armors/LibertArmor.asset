@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4dde674873fbf94ab7c3ef9a6f7f621, type: 3}
+  m_Name: LibertArmor
+  m_EditorClassIdentifier: 
+  name: Liberty armor
+  icon: {fileID: 21300000, guid: 049e12cf6f91fcd4c961b31546b8d589, type: 3}
+  description: Liberty armor is right choice for those who want maxinium movement
+    speed but still some protection
+  price: 250
+  rarityEnum: 0
+  armorEquipSlotEnum: 1
+  coveredMeshRegionsEnum: 01000000
+  mesh: {fileID: 137514675234403854, guid: 69f8f5e7576587a43b23bd1c1f580c8c, type: 2}
+  damageReduction: 6.6
+  movementSlow: 3.3

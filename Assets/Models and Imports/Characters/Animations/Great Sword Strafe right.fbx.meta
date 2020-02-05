@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 7308bd82dfe586f4082a340045243166
+timeCreated: 1507444662
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Player_COM_ctrl
+    100004: Player_Head_bone
+    100006: Player_l_Ankle_bone
+    100008: Player_l_Clav_bone
+    100010: Player_l_Forearm_bone
+    100012: Player_l_ForearmRoll1_bone
+    100014: Player_l_ForearmRoll2_bone
+    100016: Player_l_Hand_bone
+    100018: Player_l_Index_1_bone
+    100020: Player_l_Index_2_bone
+    100022: Player_l_Index_3_bone
+    100024: Player_l_Index_ctrl
+    100026: Player_l_Knee_bone
+    100028: Player_l_Middle_1_bone
+    100030: Player_l_Middle_2_bone
+    100032: Player_l_Middle_3_bone
+    100034: Player_l_Middle_ctrl
+    100036: Player_l_Pinky_1_bone
+    100038: Player_l_Pinky_2_bone
+    100040: Player_l_Pinky_3_bone
+    100042: Player_l_Pinky_ctrl
+    100044: Player_l_Ring_1_bone
+    100046: Player_l_Ring_2_bone
+    100048: Player_l_Ring_3_bone
+    100050: Player_l_Ring_ctrl
+    100052: Player_l_Shoulder_bone
+    100054: Player_l_ShoulderRoll_bone
+    100056: Player_l_Thigh_bone
+    100058: Player_l_Thumb_1_bone
+    100060: Player_l_Thumb_2_bone
+    100062: Player_l_Thumb_3_bone
+    100064: Player_l_Thumb_ctrl
+    100066: Player_l_Toe_bone
+    100068: Player_l_Wrist_bone
+    100070: Player_Neck_bone
+    100072: Player_Pelvis_bone
+    100074: Player_r_Ankle_bone
+    100076: Player_r_Clav_bone
+    100078: Player_r_Forearm_bone
+    100080: Player_r_ForearmRoll1_bone
+    100082: Player_r_ForearmRoll2_bone
+    100084: Player_r_Hand_bone
+    100086: Player_r_Index_1_bone
+    100088: Player_r_Index_2_bone
+    100090: Player_r_Index_3_bone
+    100092: Player_r_Index_ctrl
+    100094: Player_r_Knee_bone
+    100096: Player_r_Middle_1_bone
+    100098: Player_r_Middle_2_bone
+    100100: Player_r_Middle_3_bone
+    100102: Player_r_Middle_ctrl
+    100104: Player_r_Pinky_1_bone
+    100106: Player_r_Pinky_2_bone
+    100108: Player_r_Pinky_3_bone
+    100110: Player_r_Pinky_ctrl
+    100112: Player_r_Ring_1_bone
+    100114: Player_r_Ring_2_bone
+    100116: Player_r_Ring_3_bone
+    100118: Player_r_Ring_ctrl
+    100120: Player_r_Shoulder_bone
+    100122: Player_r_ShouldeRoll_bone
+    100124: Player_r_Thigh_bone
+    100126: Player_r_Thumb_1_bone
+    100128: Player_r_Thumb_2_bone
+    100130: Player_r_Thumb_3_bone
+    100132: Player_r_Thumb_ctrl
+    100134: Player_r_Toe_bone
+    100136: Player_r_Wrist_bone
+    100138: Player_Spine1_bone
+    100140: Player_Spine2_bone
+    100142: Player_Spine3_bone
+    100144: Player_Main_ctrl
+    400000: //RootNode
+    400002: Player_COM_ctrl
+    400004: Player_Head_bone
+    400006: Player_l_Ankle_bone
+    400008: Player_l_Clav_bone
+    400010: Player_l_Forearm_bone
+    400012: Player_l_ForearmRoll1_bone
+    400014: Player_l_ForearmRoll2_bone
+    400016: Player_l_Hand_bone
+    400018: Player_l_Index_1_bone
+    400020: Player_l_Index_2_bone
+    400022: Player_l_Index_3_bone
+    400024: Player_l_Index_ctrl
+    400026: Player_l_Knee_bone
+    400028: Player_l_Middle_1_bone
+    400030: Player_l_Middle_2_bone
+    400032: Player_l_Middle_3_bone
+    400034: Player_l_Middle_ctrl
+    400036: Player_l_Pinky_1_bone
+    400038: Player_l_Pinky_2_bone
+    400040: Player_l_Pinky_3_bone
+    400042: Player_l_Pinky_ctrl
+    400044: Player_l_Ring_1_bone
+    400046: Player_l_Ring_2_bone
+    400048: Player_l_Ring_3_bone
+    400050: Player_l_Ring_ctrl
+    400052: Player_l_Shoulder_bone
+    400054: Player_l_ShoulderRoll_bone
+    400056: Player_l_Thigh_bone
+    400058: Player_l_Thumb_1_bone
+    400060: Player_l_Thumb_2_bone
+    400062: Player_l_Thumb_3_bone
+    400064: Player_l_Thumb_ctrl
+    400066: Player_l_Toe_bone
+    400068: Player_l_Wrist_bone
+    400070: Player_Neck_bone
+    400072: Player_Pelvis_bone
+    400074: Player_r_Ankle_bone
+    400076: Player_r_Clav_bone
+    400078: Player_r_Forearm_bone
+    400080: Player_r_ForearmRoll1_bone
+    400082: Player_r_ForearmRoll2_bone
+    400084: Player_r_Hand_bone
+    400086: Player_r_Index_1_bone
+    400088: Player_r_Index_2_bone
+    400090: Player_r_Index_3_bone
+    400092: Player_r_Index_ctrl
+    400094: Player_r_Knee_bone
+    400096: Player_r_Middle_1_bone
+    400098: Player_r_Middle_2_bone
+    400100: Player_r_Middle_3_bone
+    400102: Player_r_Middle_ctrl
+    400104: Player_r_Pinky_1_bone
+    400106: Player_r_Pinky_2_bone
+    400108: Player_r_Pinky_3_bone
+    400110: Player_r_Pinky_ctrl
+    400112: Player_r_Ring_1_bone
+    400114: Player_r_Ring_2_bone
+    400116: Player_r_Ring_3_bone
+    400118: Player_r_Ring_ctrl
+    400120: Player_r_Shoulder_bone
+    400122: Player_r_ShouldeRoll_bone
+    400124: Player_r_Thigh_bone
+    400126: Player_r_Thumb_1_bone
+    400128: Player_r_Thumb_2_bone
+    400130: Player_r_Thumb_3_bone
+    400132: Player_r_Thumb_ctrl
+    400134: Player_r_Toe_bone
+    400136: Player_r_Wrist_bone
+    400138: Player_Spine1_bone
+    400140: Player_Spine2_bone
+    400142: Player_Spine3_bone
+    400144: Player_Main_ctrl
+    7400000: Combat_strafe_right
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Copied Avatar Rig Configuration mis-match. Inbetween bone
+      rotation in copied configuration does not match rotation in animation file:\n\t'Player_l_Wrist_bone'
+      : rotation error = 40.794861 deg\n\t'Player_l_Thumb_ctrl' : rotation error =
+      10.597377 deg\n\t'Player_l_Index_ctrl' : rotation error = 77.021378 deg\n\t'Player_l_Middle_ctrl'
+      : rotation error = 74.157059 deg\n\t'Player_l_Ring_ctrl' : rotation error =
+      93.484558 deg\n\t'Player_l_Pinky_ctrl' : rotation error = 93.770859 deg\n\t'Player_r_Wrist_bone'
+      : rotation error = 23.698040 deg\n\t'Player_r_Thumb_ctrl' : rotation error =
+      14.795117 deg\n\t'Player_r_Index_ctrl' : rotation error = 36.049492 deg\n\t'Player_r_Middle_ctrl'
+      : rotation error = 91.189560 deg\n\t'Player_r_Ring_ctrl' : rotation error =
+      107.250793 deg\n\t'Player_r_Pinky_ctrl' : rotation error = 98.524628 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'mixamo.com' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Player_l_Wrist_bone' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'Player_r_Wrist_bone'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Combat_strafe_right
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Player_COM_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone/Player_l_Knee_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone/Player_l_Knee_bone/Player_l_Ankle_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_l_Thigh_bone/Player_l_Knee_bone/Player_l_Ankle_bone/Player_l_Toe_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone/Player_r_Knee_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone/Player_r_Knee_bone/Player_r_Ankle_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_r_Thigh_bone/Player_r_Knee_bone/Player_r_Ankle_bone/Player_r_Toe_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_ForearmRoll1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_ForearmRoll2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl/Player_l_Index_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl/Player_l_Index_1_bone/Player_l_Index_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Index_ctrl/Player_l_Index_1_bone/Player_l_Index_2_bone/Player_l_Index_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl/Player_l_Middle_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl/Player_l_Middle_1_bone/Player_l_Middle_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Middle_ctrl/Player_l_Middle_1_bone/Player_l_Middle_2_bone/Player_l_Middle_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl/Player_l_Pinky_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl/Player_l_Pinky_1_bone/Player_l_Pinky_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Pinky_ctrl/Player_l_Pinky_1_bone/Player_l_Pinky_2_bone/Player_l_Pinky_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl/Player_l_Ring_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl/Player_l_Ring_1_bone/Player_l_Ring_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Ring_ctrl/Player_l_Ring_1_bone/Player_l_Ring_2_bone/Player_l_Ring_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl/Player_l_Thumb_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl/Player_l_Thumb_1_bone/Player_l_Thumb_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_Forearm_bone/Player_l_Wrist_bone/Player_l_Hand_bone/Player_l_Thumb_ctrl/Player_l_Thumb_1_bone/Player_l_Thumb_2_bone/Player_l_Thumb_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_l_Clav_bone/Player_l_Shoulder_bone/Player_l_ShoulderRoll_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_Neck_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_Neck_bone/Player_Head_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_ForearmRoll1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_ForearmRoll2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl/Player_r_Index_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl/Player_r_Index_1_bone/Player_r_Index_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Index_ctrl/Player_r_Index_1_bone/Player_r_Index_2_bone/Player_r_Index_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl/Player_r_Middle_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl/Player_r_Middle_1_bone/Player_r_Middle_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Middle_ctrl/Player_r_Middle_1_bone/Player_r_Middle_2_bone/Player_r_Middle_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl/Player_r_Pinky_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl/Player_r_Pinky_1_bone/Player_r_Pinky_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Pinky_ctrl/Player_r_Pinky_1_bone/Player_r_Pinky_2_bone/Player_r_Pinky_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl/Player_r_Ring_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl/Player_r_Ring_1_bone/Player_r_Ring_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Ring_ctrl/Player_r_Ring_1_bone/Player_r_Ring_2_bone/Player_r_Ring_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl/Player_r_Thumb_1_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl/Player_r_Thumb_1_bone/Player_r_Thumb_2_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_Forearm_bone/Player_r_Wrist_bone/Player_r_Hand_bone/Player_r_Thumb_ctrl/Player_r_Thumb_1_bone/Player_r_Thumb_2_bone/Player_r_Thumb_3_bone
+        weight: 1
+      - path: Player_COM_ctrl/Player_Pelvis_bone/Player_Spine1_bone/Player_Spine2_bone/Player_Spine3_bone/Player_r_Clav_bone/Player_r_Shoulder_bone/Player_r_ShouldeRoll_bone
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Player_Pelvis_bone
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Thigh_bone
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Thigh_bone
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Knee_bone
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Knee_bone
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Ankle_bone
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Ankle_bone
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_Spine1_bone
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_Spine2_bone
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_Neck_bone
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_Head_bone
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Clav_bone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Clav_bone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Shoulder_bone
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Shoulder_bone
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Forearm_bone
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Forearm_bone
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Hand_bone
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Hand_bone
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Toe_bone
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Toe_bone
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Thumb_1_bone
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Thumb_2_bone
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Index_1_bone
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Index_2_bone
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Middle_1_bone
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Middle_2_bone
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Ring_1_bone
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Ring_2_bone
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Ring_3_bone
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Pinky_1_bone
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Pinky_2_bone
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Pinky_3_bone
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Thumb_1_bone
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Thumb_2_bone
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Thumb_3_bone
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Index_1_bone
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Index_2_bone
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Index_3_bone
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Middle_1_bone
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Middle_2_bone
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Middle_3_bone
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Ring_1_bone
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Ring_2_bone
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Ring_3_bone
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Pinky_1_bone
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Pinky_2_bone
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_r_Pinky_3_bone
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_Spine3_bone
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Thumb_3_bone
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Index_3_bone
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Player_l_Middle_3_bone
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: MainCharacter(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player Model
+      parentName: MainCharacter(Clone)
+      position: {x: 0.10158271, y: 1.1102248, z: 0.12838863}
+      rotation: {x: 0.000000021855694, y: 0.000000059604645, z: -1.3027009e-15, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_Main_ctrl
+      parentName: MainCharacter(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_COM_ctrl
+      parentName: Player_Main_ctrl
+      position: {x: -0.0010108153, y: 0.027748367, z: 0.8625392}
+      rotation: {x: 4.6566123e-10, y: 0.000000014901159, z: 6.984918e-10, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Player_Pelvis_bone
+      parentName: Player_COM_ctrl
+      position: {x: -0.000000072669984, y: 0.000000018167496, z: -0.00000019378662}
+      rotation: {x: 0.6995126, y: 0.03823497, z: 0.7125763, w: 0.03814716}
+      scale: {x: 1, y: 1.0000004, z: 0.99999964}
+    - name: Player_Pelvis-nub_bone
+      parentName: Player_Pelvis_bone
+      position: {x: -0.0366591, y: 0, z: -0.000000001513958}
+      rotation: {x: 0.000000009607543, y: -0.004626531, z: -0.012231782, w: 0.9999145}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: Player_l_Thigh_bone
+      parentName: Player_Pelvis_bone
+      position: {x: -0.06783089, y: -0.0055838767, z: -0.09667234}
+      rotation: {x: -0.009405765, y: -0.01007913, z: 0.06977997, w: 0.99746716}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_l_Knee_bone
+      parentName: Player_l_Thigh_bone
+      position: {x: -0.32820806, y: 0.0000011566639, z: 0.000000102949144}
+      rotation: {x: 0.000009572816, y: 0.00000040588938, z: 0.025361123, w: 0.9996784}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Player_l_Ankle_bone
+      parentName: Player_l_Knee_bone
+      position: {x: -0.41012937, y: 0.0000001695633, z: -0.00000003027916}
+      rotation: {x: 0.0075263046, y: 0.0045390124, z: -0.5596668, w: 0.8286711}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Player_l_Toe_bone
+      parentName: Player_l_Ankle_bone
+      position: {x: -0.09494335, y: -0.00000014533997, z: -0.00000012111664}
+      rotation: {x: -0.00013183072, y: 0.00045658616, z: -0.1890446, w: 0.9819684}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_l_Toe-nub_bone
+      parentName: Player_l_Toe_bone
+      position: {x: -0.095903404, y: 0.00000011051893, z: -0.000002519226}
+      rotation: {x: -0.000000002382876, y: 0.0000000013340015, z: 0.000000022351745,
+        w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: Player_r_Thigh_bone
+      parentName: Player_Pelvis_bone
+      position: {x: -0.071389295, y: -0.0057532764, z: 0.096118115}
+      rotation: {x: -0.00020498289, y: -0.0092352405, z: 0.06969751, w: 0.9975254}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Player_r_Knee_bone
+      parentName: Player_r_Thigh_bone
+      position: {x: -0.32820815, y: 0.0000010416031, z: 0.00000008478165}
+      rotation: {x: -0.00000095336753, y: -0.000000024186413, z: 0.025361279, w: 0.9996784}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_r_Ankle_bone
+      parentName: Player_r_Knee_bone
+      position: {x: -0.41012967, y: -0.00000019378662, z: 0.00000008478165}
+      rotation: {x: -0.0000038375574, y: 0.0000015585898, z: -0.5591111, w: 0.82909274}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_r_Toe_bone
+      parentName: Player_r_Ankle_bone
+      position: {x: -0.094943665, y: 0.000000027251243, z: -0.000000012111664}
+      rotation: {x: 0.000025361798, y: 0.00023428595, z: -0.1897316, w: 0.98183596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_r_Toe-nub_bone
+      parentName: Player_r_Toe_bone
+      position: {x: -0.095903166, y: -0.000000039362906, z: 0.00000008478165}
+      rotation: {x: 0.00000008212736, y: 0.00000024166732, z: 0.0000000707805, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Player_Spine1_bone
+      parentName: Player_Pelvis_bone
+      position: {x: 0.00000019378662, y: 0.000000024223327, z: -0.000000001513958}
+      rotation: {x: -0.00922652, y: 0.0005690143, z: 0.99308974, w: -0.11699305}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Player_Spine2_bone
+      parentName: Player_Spine1_bone
+      position: {x: -0.10587513, y: -0.00000008478165, z: -0.000000016275049}
+      rotation: {x: 0.0044654114, y: 0.0035316173, z: -0.20307438, w: 0.9791468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_Spine3_bone
+      parentName: Player_Spine2_bone
+      position: {x: -0.11560351, y: 0.0000001695633, z: 0}
+      rotation: {x: -0.0041085477, y: -0.0038585737, z: 0.12838961, w: 0.9917078}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_Neck_bone
+      parentName: Player_Spine3_bone
+      position: {x: -0.2770482, y: 0.0000015533209, z: 0.000000012333204}
+      rotation: {x: -0.00000094341834, y: -0.000000020115724, z: 0.09285037, w: 0.9956801}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Player_Head_bone
+      parentName: Player_Neck_bone
+      position: {x: -0.069015846, y: -0.00000009689331, z: 0.000000005658492}
+      rotation: {x: -0.00007323485, y: 0.00001615959, z: -0.039992616, w: 0.9992}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: Player_Head-nub_bone
+      parentName: Player_Head_bone
+      position: {x: -0.20521994, y: -0.00000010900497, z: -0.00000038760427}
+      rotation: {x: 0.00000017155858, y: 0.000000006189167, z: 0.00000032782552, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: Player_l_Clav_bone
+      parentName: Player_Spine3_bone
+      position: {x: -0.22398885, y: -0.028859835, z: -0.008895581}
+      rotation: {x: 0.08489881, y: -0.7103491, z: -0.0691505, w: 0.6952802}
+      scale: {x: 1, y: 0.9999998, z: 0.99999976}
+    - name: Player_l_Shoulder_bone
+      parentName: Player_l_Clav_bone
+      position: {x: -0.16115457, y: 0.000000006055832, z: 0.00000009689331}
+      rotation: {x: 0.00000008132688, y: 0.000000016132809, z: 0.116849855, w: 0.99314964}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_l_Forearm_bone
+      parentName: Player_l_Shoulder_bone
+      position: {x: -0.28044835, y: -0.000000048446655, z: -0.00000009689331}
+      rotation: {x: 2.815642e-10, y: -0.0000000148985055, z: 0.018895447, w: 0.9998215}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1}
+    - name: Player_l_Wrist_bone
+      parentName: Player_l_Forearm_bone
+      position: {x: -0.23865113, y: 0.000000036334992, z: 0.00000009689331}
+      rotation: {x: -6.9849176e-10, y: 0.000000021420417, z: -0.00000000334694, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Player_l_Hand_bone
+      parentName: Player_l_Wrist_bone
+      position: {x: -0.00000014533997, y: 0, z: 0}
+      rotation: {x: 0.7092887, y: 0.008833381, z: -0.021658385, w: 0.70452994}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: Player_l_Hand-nub_bone
+      parentName: Player_l_Hand_bone
+      position: {x: -0.05082989, y: 0.00000009689331, z: 0}
+      rotation: {x: 0.000000041574815, y: -0.000000020943167, z: -0.000000081956394,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000002}
+    - name: Player_l_Thumb_ctrl
+      parentName: Player_l_Hand_bone
+      position: {x: -0.0022044682, y: 0.010741399, z: 0.02129831}
+      rotation: {x: -0.49616164, y: 0.14307049, z: 0.5314161, w: 0.6715292}
+      scale: {x: 0.9999997, y: 1, z: 1.0000001}
+    - name: Player_l_Thumb_1_bone
+      parentName: Player_l_Thumb_ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000029802315, y: 0.23403865, z: -0.065665886, w: 0.97000724}
+      scale: {x: 1.0000002, y: 0.99999994, z: 0.9999998}
+    - name: Player_l_Thumb_2_bone
+      parentName: Player_l_Thumb_1_bone
+      position: {x: -0.024553055, y: 0.00000019378662, z: 0.00000009689331}
+      rotation: {x: 0.0000001937479, y: 0.0000019818533, z: -0.029520383, w: 0.99956423}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_l_Thumb_3_bone
+      parentName: Player_l_Thumb_2_bone
+      position: {x: -0.025025653, y: -0.00000009689331, z: -0.00000009689331}
+      rotation: {x: -0.0000010429657, y: -0.0000036744193, z: -0.039864644, w: 0.9992051}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Player_l_Thumb_3-nub_bone
+      parentName: Player_l_Thumb_3_bone
+      position: {x: -0.023947326, y: -0.00000009689331, z: 0.00000019378662}
+      rotation: {x: -0.0000011613985, y: -0.000000063811655, z: 0.016445283, w: 0.9998648}
+      scale: {x: 0.9999996, y: 1.0000002, z: 1.0000001}
+    - name: Player_l_Index_ctrl
+      parentName: Player_l_Hand_bone
+      position: {x: -0.05347343, y: -0.00036974487, z: 0.022757718}
+      rotation: {x: -0.0013264652, y: -0.017852528, z: 0.08642663, w: 0.9960974}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: Player_l_Index_1_bone
+      parentName: Player_l_Index_ctrl
+      position: {x: -0, y: 0, z: 0.000000003027916}
+      rotation: {x: -0.000000011292281, y: 0.011769535, z: -0.016225958, w: 0.9997991}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: Player_l_Index_2_bone
+      parentName: Player_l_Index_1_bone
+      position: {x: -0.02022173, y: -0.00000009689331, z: 0}
+      rotation: {x: 9.3299694e-11, y: -0.0000000031743002, z: 0.0294332, w: 0.9995668}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_l_Index_3_bone
+      parentName: Player_l_Index_2_bone
+      position: {x: -0.024018882, y: -0.00000019378662, z: 0}
+      rotation: {x: 0.0008513729, y: 0.007023584, z: -0.00953837, w: 0.9999295}
+      scale: {x: 0.9999996, y: 0.9999996, z: 1}
+    - name: Player_l_Index_3-nub_bone
+      parentName: Player_l_Index_3_bone
+      position: {x: -0.02877896, y: 0, z: 0.00000009689331}
+      rotation: {x: 0.000000043655746, y: -0.000000003499738, z: -0.000000052154068,
+        w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+    - name: Player_l_Middle_ctrl
+      parentName: Player_l_Hand_bone
+      position: {x: -0.05281698, y: -0.00036160584, z: 0.0044302526}
+      rotation: {x: -0.0015353491, y: -0.017835734, z: 0.0980871, w: 0.9950168}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: Player_l_Middle_1_bone
+      parentName: Player_l_Middle_ctrl
+      position: {x: -0.00000009689331, y: 0.00000009689331, z: 0.000000003027916}
+      rotation: {x: -0.000000133994, y: 0.016223421, z: -0.025482077, w: 0.99954367}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Player_l_Middle_2_bone
+      parentName: Player_l_Middle_1_bone
+      position: {x: -0.02022173, y: -0.00000009689331, z: 0.000000003027916}
+      rotation: {x: 9.335731e-11, y: -0.0000000031743268, z: 0.029433185, w: 0.9995668}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_l_Middle_3_bone
+      parentName: Player_l_Middle_2_bone
+      position: {x: -0.024018737, y: -0.00000019378662, z: 0.000000003027916}
+      rotation: {x: 0.00075802027, y: 0.0070342785, z: -0.02281727, w: 0.9997147}
+      scale: {x: 0.9999996, y: 0.9999996, z: 1}
+    - name: Player_l_Middle_3-nub_bone
+      parentName: Player_l_Middle_3_bone
+      position: {x: -0.035053674, y: -0.00000019378662, z: -0.000000003027916}
+      rotation: {x: 0.00000007537892, y: -0.000000008920323, z: -0.000000007450579,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000004}
+    - name: Player_l_Ring_ctrl
+      parentName: Player_l_Hand_bone
+      position: {x: -0.052225202, y: -0.00035433884, z: -0.012093351}
+      rotation: {x: -0.0013264695, y: -0.01785253, z: 0.08642663, w: 0.9960974}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: Player_l_Ring_1_bone
+      parentName: Player_l_Ring_ctrl
+      position: {x: -0.00000009689331, y: 0, z: 0}
+      rotation: {x: -0.00000015774268, y: 0.011767182, z: -0.016221296, w: 0.99979925}
+      scale: {x: 0.9999998, y: 1, z: 1.0000001}
+    - name: Player_l_Ring_2_bone
+      parentName: Player_l_Ring_1_bone
+      position: {x: -0.02022173, y: 0, z: 0}
+      rotation: {x: -0.02101199, y: -0.00057527673, z: 0.031054044, w: 0.99929667}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_l_Ring_3_bone
+      parentName: Player_l_Ring_2_bone
+      position: {x: -0.024207244, y: -0.00000019378662, z: -0.000000006055832}
+      rotation: {x: 0.0048364257, y: 0.006052782, z: 0.021644872, w: 0.9997357}
+      scale: {x: 0.9999996, y: 0.9999996, z: 1}
+    - name: Player_l_Ring_3-nub_bone
+      parentName: Player_l_Ring_3_bone
+      position: {x: -0.02546763, y: 0.00000009689331, z: -0.000000003027916}
+      rotation: {x: 0.00000012479722, y: -0.00000010710207, z: -0.000000052154032,
+        w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000004}
+    - name: Player_l_Pinky_ctrl
+      parentName: Player_l_Hand_bone
+      position: {x: -0.049754325, y: 0.000027614593, z: -0.028271148}
+      rotation: {x: 0.0042736325, y: -0.016249686, z: 0.09769368, w: 0.9950747}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: Player_l_Pinky_1_bone
+      parentName: Player_l_Pinky_ctrl
+      position: {x: 0.000000048446655, y: 0, z: -0.000000006055832}
+      rotation: {x: 0.00000005261971, y: 0.015262119, z: -0.024899004, w: 0.9995735}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000002}
+    - name: Player_l_Pinky_2_bone
+      parentName: Player_l_Pinky_1_bone
+      position: {x: -0.020689484, y: 0, z: -0.000000006055832}
+      rotation: {x: -0.039077915, y: -0.0033441104, z: 0.017968753, w: 0.999069}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Player_l_Pinky_3_bone
+      parentName: Player_l_Pinky_2_bone
+      position: {x: -0.019021029, y: -0.00000009689331, z: -0.000000006055832}
+      rotation: {x: -0.0014829142, y: 0.0071056653, z: 0.04069952, w: 0.9991451}
+      scale: {x: 0.9999996, y: 0.9999996, z: 1}
+    - name: Player_l_Pinky_3-nub_bone
+      parentName: Player_l_Pinky_3_bone
+      position: {x: -0.023359016, y: -0.00000019378662, z: 0.000000006055832}
+      rotation: {x: 0.0000002533196, y: -0.00000014062968, z: -0.00000007450574, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: Player_l_ForearmRoll2_bone
+      parentName: Player_l_Forearm_bone
+      position: {x: -0.081984624, y: 0, z: -0.00000009689331}
+      rotation: {x: 0.0000000016299062, y: 0.0000008242205, z: -0.00000011175871,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: Player_l_ForearmRoll1_bone
+      parentName: Player_l_Forearm_bone
+      position: {x: -0.1695254, y: -0.000000006055832, z: -0.00000009689331}
+      rotation: {x: -0.000000001862263, y: 0.0000016344712, z: -0.0000002331508, w: 1}
+      scale: {x: 1, y: 1.0000006, z: 1}
+    - name: Player_l_ShoulderRoll_bone
+      parentName: Player_l_Shoulder_bone
+      position: {x: -0, y: 0.000000024223327, z: 0}
+      rotation: {x: -0.000000040279676, y: -0.00000018253925, z: 0.00000013524551,
+        w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Player_l_Shoulder_FK_bone
+      parentName: Player_l_Clav_bone
+      position: {x: -0.16115454, y: -0.000000003027916, z: 0.00000019378662}
+      rotation: {x: 0.000000009562037, y: 0.00000002831968, z: 0.11684986, w: 0.99314964}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: Player_l_Forearm_FK_bone
+      parentName: Player_l_Shoulder_FK_bone
+      position: {x: -0.28044835, y: -0.00000006055832, z: -0.00000009689331}
+      rotation: {x: 0.00000023821924, y: -0.00000003648341, z: 0.01889566, w: 0.9998215}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1}
+    - name: Player_l_Wrist_FK_bone
+      parentName: Player_l_Forearm_FK_bone
+      position: {x: -0.23865128, y: 0.00000003027916, z: 0.00000019378662}
+      rotation: {x: 0.00000002328306, y: 0.000000040978197, z: 0.0000000021609585,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Player_l_Shoulder_IK_bone
+      parentName: Player_l_Clav_bone
+      position: {x: -0.16115451, y: 0, z: 0.00000029067994}
+      rotation: {x: 0.00000009333755, y: 0.00000001567044, z: 0.11684985, w: 0.99314964}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: Player_l_Forearm_IK_bone
+      parentName: Player_l_Shoulder_IK_bone
+      position: {x: -0.28044838, y: -0.000000054502486, z: -0.00000009689331}
+      rotation: {x: -2.503869e-10, y: 9.2675717e-10, z: 0.018895447, w: 0.9998215}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1}
+    - name: Player_l_Wrist_IK_bone
+      parentName: Player_l_Forearm_IK_bone
+      position: {x: -0.23865128, y: 0.000000042390823, z: 0.00000019378662}
+      rotation: {x: -2.3283062e-10, y: 0.0000000027939673, z: 0.0000000019499564,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Player_r_Clav_bone
+      parentName: Player_Spine3_bone
+      position: {x: -0.22398885, y: -0.028859839, z: 0.008900137}
+      rotation: {x: 0.71034926, y: 0.08489885, z: 0.69528, w: 0.06915103}
+      scale: {x: 0.99999994, y: 0.9999997, z: 0.99999976}
+    - name: Player_r_Shoulder_IK_bone
+      parentName: Player_r_Clav_bone
+      position: {x: 0.1611546, y: 0.000000001513958, z: -0.00000009689331}
+      rotation: {x: 0.000000010351949, y: -0.00000008599244, z: 0.11684985, w: 0.99314964}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Player_r_Forearm_IK_bone
+      parentName: Player_r_Shoulder_IK_bone
+      position: {x: 0.2804483, y: -0.000000048446655, z: 0.00000009689331}
+      rotation: {x: -0.00000024145965, y: 0.00000014633792, z: 0.018895447, w: 0.9998215}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Player_r_Wrist_IK_bone
+      parentName: Player_r_Forearm_IK_bone
+      position: {x: 0.23865142, y: -0.000000006055832, z: 0}
+      rotation: {x: 0.00000004703179, y: -9.313228e-10, z: -0.0000000055442797, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Player_r_Shoulder_FK_bone
+      parentName: Player_r_Clav_bone
+      position: {x: 0.1611546, y: -0.000000004541874, z: 0}
+      rotation: {x: 0.0000000024892488, y: -0.0000000072090964, z: 0.11684988, w: 0.99314964}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Player_r_Forearm_FK_bone
+      parentName: Player_r_Shoulder_FK_bone
+      position: {x: 0.2804483, y: -0.000000036334992, z: 0.00000019378662}
+      rotation: {x: -0.00000023820768, y: 0.00000023302786, z: 0.018895445, w: 0.9998215}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Player_r_Wrist_FK_bone
+      parentName: Player_r_Forearm_FK_bone
+      position: {x: 0.23865142, y: -0.000000006055832, z: 0}
+      rotation: {x: 0.0000000062864274, y: 9.313226e-10, z: -0.0000000042564356, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Player_r_Shoulder_bone
+      parentName: Player_r_Clav_bone
+      position: {x: 0.1611546, y: 0.000000001513958, z: 0}
+      rotation: {x: 0.00000001163054, y: -0.00000008490428, z: 0.11684985, w: 0.99314964}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Player_r_Forearm_bone
+      parentName: Player_r_Shoulder_bone
+      position: {x: 0.28044826, y: -0.000000042390823, z: 0.00000009689331}
+      rotation: {x: -0.00000023247289, y: 0.00000013905586, z: 0.01889544, w: 0.9998215}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Player_r_Wrist_bone
+      parentName: Player_r_Forearm_bone
+      position: {x: 0.23865132, y: 0, z: 0}
+      rotation: {x: 0.000000038882707, y: -0.0000000018626448, z: 0.0000000039726724,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Player_r_Hand_bone
+      parentName: Player_r_Wrist_bone
+      position: {x: -0.0000048446655, y: 0.0000004178524, z: -0.00000048446657}
+      rotation: {x: 0.70928895, y: 0.008833639, z: -0.021658469, w: 0.70452976}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: Player_r_Hand-nub_bone
+      parentName: Player_r_Hand_bone
+      position: {x: 0.050829843, y: -0.00000009689331, z: 0.00000009689331}
+      rotation: {x: -0.0000000033325975, y: 0.00000012373329, z: 0.0000016838306,
+        w: 1}
+      scale: {x: 1.0000004, y: 0.99999976, z: 0.9999997}
+    - name: Player_r_Thumb_ctrl
+      parentName: Player_r_Hand_bone
+      position: {x: 0.002204565, y: -0.010741689, z: -0.021298118}
+      rotation: {x: -0.49616173, y: 0.14307025, z: 0.5314161, w: 0.6715291}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.99999946}
+    - name: Player_r_Thumb_1_bone
+      parentName: Player_r_Thumb_ctrl
+      position: {x: -0.000000048446655, y: 0.000000048446655, z: 0}
+      rotation: {x: -0.0000008642668, y: 0.23403528, z: -0.06566391, w: 0.97000813}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000006}
+    - name: Player_r_Thumb_2_bone
+      parentName: Player_r_Thumb_1_bone
+      position: {x: 0.024553394, y: 0, z: 0}
+      rotation: {x: 0.0000017978964, y: -0.0000031739455, z: -0.029512633, w: 0.9995644}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.99999994}
+    - name: Player_r_Thumb_3_bone
+      parentName: Player_r_Thumb_2_bone
+      position: {x: 0.025025459, y: -0.00000009689331, z: -0.00000019378662}
+      rotation: {x: 0.0000018041243, y: 0.0000057631937, z: -0.039871227, w: 0.9992049}
+      scale: {x: 1.0000001, y: 0.9999997, z: 0.9999998}
+    - name: Player_r_Thumb_3-nub_bone
+      parentName: Player_r_Thumb_3_bone
+      position: {x: 0.023947472, y: 0, z: 0.00000009689331}
+      rotation: {x: -0.00000028312203, y: -0.00000017881392, z: 0.000000014901109,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Player_r_Index_ctrl
+      parentName: Player_r_Hand_bone
+      position: {x: 0.053473577, y: 0.00036984176, z: -0.022758007}
+      rotation: {x: 0.0043827468, y: -0.017356854, z: 0.08652889, w: 0.9960885}
+      scale: {x: 1, y: 0.9999995, z: 0.9999997}
+    - name: Player_r_Index_1_bone
+      parentName: Player_r_Index_ctrl
+      position: {x: -0.00000009689331, y: 0, z: 0}
+      rotation: {x: 0.0000002998856, y: 0.011583425, z: -0.016359044, w: 0.9997991}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000004}
+    - name: Player_r_Index_2_bone
+      parentName: Player_r_Index_1_bone
+      position: {x: 0.020221828, y: -0.00000009689331, z: 0}
+      rotation: {x: 0.011417376, y: 0.0010107497, z: 0.029415412, w: 0.9995016}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Player_r_Index_3_bone
+      parentName: Player_r_Index_2_bone
+      position: {x: 0.024018688, y: 0.00000019378662, z: -0.00000003027916}
+      rotation: {x: 0.00085793855, y: 0.006368253, z: -0.0095271645, w: 0.999934}
+      scale: {x: 1.0000001, y: 0.99999964, z: 1}
+    - name: Player_r_Index_3-nub_bone
+      parentName: Player_r_Index_3_bone
+      position: {x: 0.028778668, y: -0.00000019378662, z: 0}
+      rotation: {x: -0.000000052154064, y: 0.00000003259629, z: 0.000000007450582,
+        w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Player_r_Middle_ctrl
+      parentName: Player_r_Hand_bone
+      position: {x: 0.052817173, y: 0.00036160584, z: -0.0044303434}
+      rotation: {x: 0.0049900925, y: -0.017192047, z: 0.098202355, w: 0.9950054}
+      scale: {x: 1, y: 0.9999996, z: 0.99999964}
+    - name: Player_r_Middle_1_bone
+      parentName: Player_r_Middle_ctrl
+      position: {x: -0.000000048446655, y: 0.00000009689331, z: -0.000000006055832}
+      rotation: {x: 0.00000015972176, y: 0.015892062, z: -0.025694964, w: 0.99954355}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: Player_r_Middle_2_bone
+      parentName: Player_r_Middle_1_bone
+      position: {x: 0.020221537, y: 0, z: 0.00000009689331}
+      rotation: {x: 0.013064483, y: 0.0011564938, z: 0.029409539, w: 0.9994814}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: Player_r_Middle_3_bone
+      parentName: Player_r_Middle_2_bone
+      position: {x: 0.02401893, y: 0.00000038757324, z: 0.000000054502486}
+      rotation: {x: 0.00075211516, y: 0.00524196, z: -0.022781612, w: 0.9997265}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: Player_r_Middle_3-nub_bone
+      parentName: Player_r_Middle_3_bone
+      position: {x: 0.03505324, y: 0, z: 0.00000029067994}
+      rotation: {x: -0.000000009313227, y: 0.0000000065192567, z: 6.0715315e-17, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: Player_r_Ring_ctrl
+      parentName: Player_r_Hand_bone
+      position: {x: 0.052225493, y: 0.00035424193, z: 0.012093642}
+      rotation: {x: 0.0043831654, y: -0.017356798, z: 0.08652863, w: 0.9960885}
+      scale: {x: 1, y: 0.9999994, z: 0.9999996}
+    - name: Player_r_Ring_1_bone
+      parentName: Player_r_Ring_ctrl
+      position: {x: -0.000000048446655, y: 0, z: -0.000000012111664}
+      rotation: {x: -0.00000016018738, y: 0.011582014, z: -0.016361035, w: 0.99979913}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: Player_r_Ring_2_bone
+      parentName: Player_r_Ring_1_bone
+      position: {x: 0.020221343, y: 0.00000038757324, z: -0.00000021195412}
+      rotation: {x: -0.021033894, y: 0.00013521459, z: 0.031034034, w: 0.999297}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: Player_r_Ring_3_bone
+      parentName: Player_r_Ring_2_bone
+      position: {x: 0.024207728, y: 0.0000014533996, z: 0.0000003027916}
+      rotation: {x: 0.0063244198, y: 0.0065789577, z: 0.021515356, w: 0.9997269}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.9999997}
+    - name: Player_r_Ring_3-nub_bone
+      parentName: Player_r_Ring_3_bone
+      position: {x: 0.025466856, y: -0.00000009689331, z: -0.00000018470287}
+      rotation: {x: 0.0000000074505815, y: 0.000000014202674, z: -0.000000022351749,
+        w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 1}
+    - name: Player_r_Pinky_ctrl
+      parentName: Player_r_Hand_bone
+      position: {x: 0.049754374, y: -0.000027420807, z: 0.028271051}
+      rotation: {x: -0.001033594, y: -0.016770223, z: 0.097606495, w: 0.9950833}
+      scale: {x: 1, y: 0.9999995, z: 0.99999964}
+    - name: Player_r_Pinky_1_bone
+      parentName: Player_r_Pinky_ctrl
+      position: {x: -0.000000048446655, y: -0.00000009689331, z: 0}
+      rotation: {x: -0.0000000662403, y: 0.015529592, z: -0.024738155, w: 0.9995734}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999999}
+    - name: Player_r_Pinky_2_bone
+      parentName: Player_r_Pinky_1_bone
+      position: {x: 0.020689532, y: 0.00000019378662, z: 0.000000024223327}
+      rotation: {x: -0.03907115, y: -0.0037239643, z: 0.01798058, w: 0.9990677}
+      scale: {x: 0.9999997, y: 1.0000001, z: 1.0000001}
+    - name: Player_r_Pinky_3_bone
+      parentName: Player_r_Pinky_2_bone
+      position: {x: 0.019021077, y: -0.000003488159, z: -0.0000001332283}
+      rotation: {x: -0.0096819755, y: 0.005902569, z: 0.04080317, w: 0.99910283}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+    - name: Player_r_Pinky_3-nub_bone
+      parentName: Player_r_Pinky_3_bone
+      position: {x: 0.023359282, y: -0.00000009689331, z: 0.000000102949144}
+      rotation: {x: -0.0000000074505793, y: 0.000000008381905, z: -0.00000014901163,
+        w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1.0000002}
+    - name: Player_r_ForearmRoll1_bone
+      parentName: Player_r_Forearm_bone
+      position: {x: 0.16371748, y: -0.000000006055832, z: -0.00000029067994}
+      rotation: {x: -0.000000015599548, y: -0.000001936219, z: 0.000000052859782,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000006}
+    - name: Player_r_ForearmRoll2_bone
+      parentName: Player_r_Forearm_bone
+      position: {x: 0.08604683, y: 0, z: -0.00000029067994}
+      rotation: {x: -0.000000016530949, y: -0.0000009844076, z: 0.000000025516758,
+        w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000005}
+    - name: Player_r_ShouldeRoll_bone
+      parentName: Player_r_Shoulder_bone
+      position: {x: -0.000000024223327, y: -0.000000006055832, z: 0}
+      rotation: {x: 9.313051e-10, y: -0.00000031944364, z: -0.000000055319106, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 95f2e0534ac76ed429f87fb88ad8b685,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

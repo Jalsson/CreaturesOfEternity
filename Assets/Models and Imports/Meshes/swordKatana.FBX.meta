@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 9c2f75daebf8d47419d1ab3ea49ee4cb
+timeCreated: 1507914899
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Katana
+    100002: Player_COM_ctrl
+    100004: Player_Pelvis_bone
+    100006: Player_r_Clav_bone
+    100008: Player_r_Elbow_FK_ctrl
+    100010: Player_r_Hand_FK_ctrl
+    100012: Player_r_Shoulder_FK_ctrl
+    100014: Player_Spine1_bone
+    100016: Player_Spine2_bone
+    100018: Player_Spine3_bone
+    100020: //RootNode
+    400000: Katana
+    400002: Player_COM_ctrl
+    400004: Player_Pelvis_bone
+    400006: Player_r_Clav_bone
+    400008: Player_r_Elbow_FK_ctrl
+    400010: Player_r_Hand_FK_ctrl
+    400012: Player_r_Shoulder_FK_ctrl
+    400014: Player_Spine1_bone
+    400016: Player_Spine2_bone
+    400018: Player_Spine3_bone
+    400020: //RootNode
+    2300000: Katana
+    2300002: //RootNode
+    3300000: Katana
+    3300002: //RootNode
+    4300000: Katana
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: 5cb5aa4c61c5a2d478a93c810d8f3524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blade
+    second: {fileID: 2100000, guid: 59d957e6aa8a8e446ba7bb0d99bef7d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blade darker
+    second: {fileID: 2100000, guid: 90ca81ccb5c627840883a2bc8c6d48ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle
+    second: {fileID: 2100000, guid: 494b0286ccb9f644eb3478ec763e92c4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.2
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

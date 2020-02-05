@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a69123509075bf43bdf55c9205a2d8a, type: 3}
+  m_Name: healCrystal
+  m_EditorClassIdentifier: 
+  name: Healing crystal
+  icon: {fileID: 21300000, guid: ae19b6eec1c6ce143a0b1462b16b6df6, type: 3}
+  description: when activated gives health
+  price: 60
+  rarityEnum: 2
+  weaponSlotEnum: 1
+  crystalTypeEnum: 4
+  weaponDamage: 0
+  attackSpeedOrDuration: 1
+  statEffectOrRadius: 30
+  weaponObject: {fileID: 1649400831307328, guid: 8555590bc2d34ae4aaabbf2e817e66ca,
+    type: 2}
